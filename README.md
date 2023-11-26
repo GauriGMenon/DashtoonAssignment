@@ -26,3 +26,4 @@ The dataset can be found [here](https://www.kaggle.com/datasets/ikarus777/best-a
 
 ## Running the notebook
 The notebook is `Dashtoon_GenAI.ipynb`. Once the above set up is done, the notebook is ready to be run. Just open the notebook and run all the cells! Read along to understand.
+A copy of the Colab notebook is [here](https://colab.research.google.com/drive/16zbHad2_9mhcGTyPIZX9N9mapTEd4iH0).
